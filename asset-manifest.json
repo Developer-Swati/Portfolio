@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.402e73d1.css",
-    "main.js": "/demo/static/js/main.03ee8980.js",
-    "static/media/AWS-cloud-comp-cer.pdf": "/demo/static/media/AWS-cloud-comp-cer.cf837e967256371c53a0.pdf",
-    "static/media/mypic.png": "/demo/static/media/mypic.8925d246fce4674b946a.png",
-    "static/media/AWS_AI.PNG": "/demo/static/media/AWS_AI.e1afb754ac717bea168f.PNG",
-    "static/media/Updated-Resume.pdf": "/demo/static/media/Updated-Resume.3d6ca0f2f776f29bfa81.pdf",
-    "static/media/GSSOC certificate.pdf": "/demo/static/media/GSSOC certificate.fd21df1d3e9907b7076c.pdf",
-    "index.html": "/demo/index.html",
-    "main.402e73d1.css.map": "/demo/static/css/main.402e73d1.css.map",
-    "main.03ee8980.js.map": "/demo/static/js/main.03ee8980.js.map"
+    "main.css": "/Portfolio/static/css/main.402e73d1.css",
+    "main.js": "/Portfolio/static/js/main.66498d15.js",
+    "static/media/AWS-cloud-comp-cer.pdf": "/Portfolio/static/media/AWS-cloud-comp-cer.cf837e967256371c53a0.pdf",
+    "static/media/mypic.png": "/Portfolio/static/media/mypic.8925d246fce4674b946a.png",
+    "static/media/AWS_AI.PNG": "/Portfolio/static/media/AWS_AI.e1afb754ac717bea168f.PNG",
+    "static/media/Updated-Resume.pdf": "/Portfolio/static/media/Updated-Resume.3d6ca0f2f776f29bfa81.pdf",
+    "static/media/GSSOC certificate.pdf": "/Portfolio/static/media/GSSOC certificate.fd21df1d3e9907b7076c.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.402e73d1.css.map": "/Portfolio/static/css/main.402e73d1.css.map",
+    "main.66498d15.js.map": "/Portfolio/static/js/main.66498d15.js.map"
   },
   "entrypoints": [
     "static/css/main.402e73d1.css",
-    "static/js/main.03ee8980.js"
+    "static/js/main.66498d15.js"
   ]
 }
