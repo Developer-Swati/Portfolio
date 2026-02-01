@@ -15,11 +15,11 @@ const Projects = () => {
             <div className="portfolio__item-image">
                 {/* <img src={IMG1} alt="" /> */}
             </div>
-            <h3>Dino Game</h3>
-            <small className='text-light'> HTML | CSS | Js</small>
+            <h3>Note It</h3>
+            <small className='text-light'>React.js | Js | Tailwind CSS | Material Icons</small>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/Developer-Swati/Dino-Game" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://developer-swati.github.io/Dino-Game/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Here</a>
+            <a href="https://github.com/Developer-Swati/Notes-app" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              <a href="https://developer-swati.github.io/Notes-app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Here</a>
             </div>
               
         </article>
@@ -28,7 +28,7 @@ const Projects = () => {
                 {/* <img src={IMG4} alt="" /> */}
             </div>
             <h3>My Portfolio(This website)</h3>
-            <small className='text-light'>ReactJs</small>
+            <small className='text-light'>ReactJs | Js | CSS</small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/Developer-Swati/demo" target="_blank" rel='noreferrer' className='btn'>Github</a>
               <a href="https://developer-swati.github.io/demo/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
@@ -39,11 +39,11 @@ const Projects = () => {
             <div className="portfolio__item-image">
                 {/* <img src={IMG3} alt="" /> */}
             </div>
-            <h3>Voice Maker</h3>
-            <small className='text-light'>ReactJs | CSS | JS </small>
+            <h3>Jurni</h3>
+            <small className='text-light'>Python | Gemini | Google ADK | SSE | Firebase </small>
             <div className="portfolio__item-cta">
-              <a href="https://github.com/Developer-Swati/voice-maker" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://developer-swati.github.io/voice-maker/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+              <a href="https://github.com/Developer-Swati/jurni" target="_blank" rel='noreferrer' className='btn'>Github</a>
+              {/* <a href="https://developer-swati.github.io/voice-maker/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>   */}
             </div>
             
         </article>

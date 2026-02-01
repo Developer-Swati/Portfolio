@@ -1,7 +1,7 @@
 // this is about
 import React from 'react'
 import './about.css'
-import myImage from '../../assets/mypic.png'
+import myImage from '../../assets/my-pic.png'
 import {GiGraduateCap} from 'react-icons/gi'
 import {BsBookmarkStar} from 'react-icons/bs'
 import {TfiWorld} from 'react-icons/tfi'
@@ -33,7 +33,7 @@ const About = () => {
               <article className='about__card'>
                   <BsBookmarkStar className='about__icon'/>
                   <h5>Current GPA</h5>
-                  <small>8.6</small>
+                  <small>9.07</small>
               </article>
 
               <article className='about__card'>
@@ -42,7 +42,8 @@ const About = () => {
                   <small>
                     <ul>
                       <li>Full stack web development</li>
-                      <li>Core Java</li>
+                       <li>DevOps & Cloud</li>
+                      <li>AI</li>
                     </ul>
                   </small>
               </article>
@@ -51,11 +52,7 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b>Computer Science Undergradute</b> at the Kurukshetra University. 
-                    I'm an enthusiastic and driven student seeking a challenging opportunity to apply 
-                    and expand my technical skills. 
-                    With a strong academic foundation in computer science and hands-on experience in various programming languages,
-                    I am eager to contribute to innovative projects and learn from experienced professionals in the industry. I am a quick learner who is always ready to face challenges.
+                  Dedicated <b>Full-Stack Developer</b> specializing in <b>Cloud</b> and <b>DevOps</b>, with hands-on experience across AWS and GCP cloud services and deployments. Passionate <b>Open-Source contributor</b> and an avid explorer of <b>Generative AI</b> and <b>Agentic AI</b> architectures.
                     
             </p>
 

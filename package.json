@@ -17,6 +17,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
     "react-router-dom": "^6.22.0",
+    "react-router": "^7.6.0",   
     "react-scripts": "5.0.1",
     "sass": "^1.70.0",
     "typewriter-effect": "^2.21.0",
@@ -25,7 +26,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build --branch=gh-pages",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

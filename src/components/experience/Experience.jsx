@@ -12,21 +12,27 @@ const Experience = () => {
       <div className="container experience__container">
 
         <div className="experience__frontend">
-            <h3>Frontend Development</h3>
+            <h3>Full-Stack Development</h3>
 
             <div className="experience__content">
-
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>HTML</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <h4>Agentic-AI</h4>
+                  <small className='text-light'>Beginner</small>
+                </div>
+              </article>              
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Gen-AI</h4>
+                  <small className='text-light'>Beginner</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>CSS</h4>
+                  <h4>ReactJs/Next.Js</h4>
                   <small className='text-light'>Intermediate</small>
                 </div>
               </article>
@@ -40,60 +46,95 @@ const Experience = () => {
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>Bootstrap, Material UI and Ant Design</h4>
+                  <h4>MongoDB</h4>
                   <small className='text-light'>Beginner</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>ReactJs</h4>
+                  <h4>Design Frameworks</h4>
                   <small className='text-light'>Intermediate</small>
                 </div>
               </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Node.Js</h4>
+                  <small className='text-light'>Beginner</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Express.Js</h4>
+                  <small className='text-light'>Beginner</small>
+                </div>
+              </article>              
             </div>
         </div>
-     {/* End of frontend part */}
+     {/* End of Full-Stack part */}
 
         <div className="experience__backend">
-            <h3>Backend Development</h3>
+            <h3>DevOps & Cloud</h3>
             <div className="experience__content">
 
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
-                  <h4>Node.js</h4>
-                  <small className='text-light'>Beginner</small>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillPatchCheckFill className='experience__details-icon'/>
-                <div>
-                  <h4>MongoDB and SQL</h4>
-                  <small className='text-light'>Beginner</small>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillPatchCheckFill className='experience__details-icon'/>
-                <div>
-                  <h4>Express.js</h4>
-                  <small className='text-light'>Beginner</small>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillPatchCheckFill className='experience__details-icon'/>
-                <div>
-                  <h4> Core Java</h4>
-                  <small className='text-light'>Expert</small>
-                </div>
-              </article>
-              <article className='experience__details'>
-                <BsFillPatchCheckFill className='experience__details-icon'/>
-                <div>
-                  <h4> C and C++</h4>
+                  <h4>AWS Cloud</h4>
                   <small className='text-light'>Intermediate</small>
                 </div>
               </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>GCP Cloud</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Terraform</h4>
+                  <small className='text-light'>Beginner</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>GitOps</h4>
+                  <small className='text-light'>Beginner</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Observability</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>CI/CD</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>   
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Docker</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                  <h4>Kubernetes</h4>
+                  <small className='text-light'>Intermediate</small>
+                </div>
+              </article>                                         
             </div>
         </div>
       </div>
