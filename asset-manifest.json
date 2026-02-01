@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.402e73d1.css",
-    "main.js": "/Portfolio/static/js/main.0146ef4d.js",
-    "static/media/AWS-cloud-comp-cer.pdf": "/Portfolio/static/media/AWS-cloud-comp-cer.cf837e967256371c53a0.pdf",
-    "static/media/mypic.png": "/Portfolio/static/media/mypic.8925d246fce4674b946a.png",
-    "static/media/AWS_AI.PNG": "/Portfolio/static/media/AWS_AI.e1afb754ac717bea168f.PNG",
-    "static/media/Updated-Resume.pdf": "/Portfolio/static/media/Updated-Resume.3d6ca0f2f776f29bfa81.pdf",
-    "static/media/GSSOC certificate.pdf": "/Portfolio/static/media/GSSOC certificate.fd21df1d3e9907b7076c.pdf",
+    "main.js": "/Portfolio/static/js/main.50ffce61.js",
+    "static/media/GenAI-Hackathon-cert.png": "/Portfolio/static/media/GenAI-Hackathon-cert.7c24c6118192d9466d85.png",
+    "static/media/GCP-GenAI-lab-cert.png": "/Portfolio/static/media/GCP-GenAI-lab-cert.0b6d81dca2adcf0ddd4a.png",
+    "static/media/AI Agents.pdf": "/Portfolio/static/media/AI Agents.8628289ce159902568f7.pdf",
+    "static/media/my-pic.png": "/Portfolio/static/media/my-pic.e602b31cd5e06c6bcc27.png",
+    "static/media/AWS-cloud-comp-cert.pdf": "/Portfolio/static/media/AWS-cloud-comp-cert.cf837e967256371c53a0.pdf",
+    "static/media/AWS-lab-cert.png": "/Portfolio/static/media/AWS-lab-cert.d1042f505602afe77073.png",
+    "static/media/Updated-Swati-Resume.pdf": "/Portfolio/static/media/Updated-Swati-Resume.a6aca9ec590dae32e521.pdf",
     "index.html": "/Portfolio/index.html",
     "main.402e73d1.css.map": "/Portfolio/static/css/main.402e73d1.css.map",
-    "main.0146ef4d.js.map": "/Portfolio/static/js/main.0146ef4d.js.map"
+    "main.50ffce61.js.map": "/Portfolio/static/js/main.50ffce61.js.map"
   },
   "entrypoints": [
     "static/css/main.402e73d1.css",
-    "static/js/main.0146ef4d.js"
+    "static/js/main.50ffce61.js"
   ]
 }
