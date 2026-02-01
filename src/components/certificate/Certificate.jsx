@@ -1,7 +1,11 @@
 import React from 'react';
-import Certi1 from '../../assets/AWS-cloud-comp-cer.pdf';
-import Certi2 from '../../assets/GSSOC certificate.pdf'
-import img1 from '../../assets/AWS_AI.PNG'
+import AWS1 from '../../assets/AWS-cloud-comp-cert.pdf';
+import AWS2 from '../../assets/AWS-lab-cert.png';
+import GCP1 from '../../assets/GenAI-Hackathon-cert.png';
+import GCP2 from '../../assets/GCP-GenAI-lab-cert.png';
+import Cert from '../../assets/AI Agents.pdf';
+
+
 
 const Certificate = () =>{
 return (
@@ -14,27 +18,43 @@ return (
 
   <article className='portfolio__item'>
       <h3>AWS Cloud Computing</h3>
-      <small className='text-light'>Explored about AWS fundamental and Cloud Computing</small>
+      <small className='text-light'>Explored about AWS fundamental and Cloud Computing.</small>
       <div className="portfolio__item-cta">
-      <a href={Certi1} download className='btn btn-primary'>Download CV</a>
+      <a href={AWS1} download className='btn btn-primary'>Download Certificate</a>
       </div>
         
   </article>
 
   <article className='portfolio__item'>
-      <h3>AWS AI conclave certificate</h3>
-      <small className='text-light'>Learnt about AWS , Generative AI, Machine Learning and many more </small>
+      <h3>Gen AI Exchange Hackathon (Google) </h3>
+      <small className='text-light'>Built a solution for AI Trip Planner under Google National-level Hackathon.</small>
       <div className="portfolio__item-cta">
-      <a href={img1} download className='btn btn-primary'>Download CV</a>
+      <a href={GCP1} download className='btn btn-primary'>Download Certificate</a>
       </div>
         
   </article>
 
   <article className='portfolio__item'>
-      <h3>GSSOC open source certificate</h3>
-      <small className='text-light'>Contibuted to Frontend projects , fixed bugs , improved features and resolved issues.</small>
+      <h3>AWS Agentic AI</h3>
+      <small className='text-light'>Completed AWS AI Agent workshop and published one documentation.</small>
       <div className="portfolio__item-cta">
-      <a href={Certi2} download className='btn btn-primary'>Download CV</a>
+      <a href={AWS2} download className='btn btn-primary'>Download Certificate</a>
+      </div>   
+  </article>
+
+    <article className='portfolio__item'>
+      <h3>GCP Agentic AI</h3>
+      <small className='text-light'>Completed all AI labs under Gen AI Exchange Program.</small>
+      <div className="portfolio__item-cta">
+      <a href={GCP2} download className='btn btn-primary'>Download Certificate</a>
+      </div>   
+  </article>
+
+    <article className='portfolio__item'>
+      <h3> Agentic AI Hackathon</h3>
+      <small className='text-light'>Built a solution for DevOps under an Agentic AI Hackathon.</small>
+      <div className="portfolio__item-cta">
+      <a href={Cert} download className='btn btn-primary'>Download Certificate</a>
       </div>   
   </article>
   </div>
